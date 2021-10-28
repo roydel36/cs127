@@ -1,1 +1,5 @@
+import matplotlib.pyplot as plt
+import pandas as pd
+
+pop = pd.read_csv('superpbowl.csv')
 
